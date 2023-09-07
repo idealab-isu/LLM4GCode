@@ -1,5 +1,7 @@
 This is the official repository for "Towards Foundational AI Models in Additive Manufacturing: Evaluating Large Language Models for G-Code Debugging, Manipulation, and Comprehension". This repo contains all results that were generated as part of our experimentation - G-code, markdown file for chats, chat screenshots, and an overview of our prompts.
 
+### [**Paper**](https://arxiv.org/abs/2309.02465) <br>
+
 Results are split into two categories - raw and processed.
 
 `raw` contains raw output from the model, and are not processed in any way. These results are stored in the `raw` folder.
